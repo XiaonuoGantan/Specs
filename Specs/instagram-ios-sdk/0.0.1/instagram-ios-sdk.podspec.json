@@ -1,6 +1,6 @@
 {
   "name": "instagram-ios-sdk",
-  "version": "0.0.1",
+  "version": "1.1.1",
   "summary": "Instagram SDK for iOS.",
   "description": "This open source iOS library allows you to integrate Instagram into your iOS application include iPhone, iPad and iPod touch.",
   "homepage": "http://www.followgram.me",
@@ -11,7 +11,7 @@
   "authors": "Cristiano Severini",
   "source": {
     "git": "https://github.com/crino/instagram-ios-sdk.git",
-    "commit": "0af5a2f70a053be720aa0357d00ce5a4d61b8a8a"
+    "commit": "b3e8e04b99fa69ac4034b197186e64202492384f"
   },
   "platforms": {
     "ios": "5.0"
